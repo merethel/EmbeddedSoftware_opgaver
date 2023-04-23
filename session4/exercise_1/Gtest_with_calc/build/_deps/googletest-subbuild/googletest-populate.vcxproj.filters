@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\meret\Desktop\Softwareingeniør\4. semester\ESW\opgaver\workspace\session4\exercise_1\Gtest_with_calc\build\_deps\googletest-subbuild\CMakeFiles\ad57f1705a0c4dce28f0811be1694c93\googletest-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\meret\Desktop\Softwareingeniør\4. semester\ESW\opgaver\workspace\session4\exercise_1\Gtest_with_calc\build\_deps\googletest-subbuild\CMakeFiles\ad57f1705a0c4dce28f0811be1694c93\googletest-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\meret\Desktop\Softwareingeniør\4. semester\ESW\opgaver\workspace\session4\exercise_1\Gtest_with_calc\build\_deps\googletest-subbuild\CMakeFiles\ad57f1705a0c4dce28f0811be1694c93\googletest-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\meret\Desktop\Softwareingeniør\4. semester\ESW\opgaver\workspace\session4\exercise_1\Gtest_with_calc\build\_deps\googletest-subbuild\CMakeFiles\ad57f1705a0c4dce28f0811be1694c93\googletest-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\meret\Desktop\Softwareingeniør\4. semester\ESW\opgaver\workspace\session4\exercise_1\Gtest_with_calc\build\_deps\googletest-subbuild\CMakeFiles\ad57f1705a0c4dce28f0811be1694c93\googletest-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\meret\Desktop\Softwareingeniør\4. semester\ESW\opgaver\workspace\session4\exercise_1\Gtest_with_calc\build\_deps\googletest-subbuild\CMakeFiles\ad57f1705a0c4dce28f0811be1694c93\googletest-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\meret\Desktop\Softwareingeniør\4. semester\ESW\opgaver\workspace\session4\exercise_1\Gtest_with_calc\build\_deps\googletest-subbuild\CMakeFiles\ad57f1705a0c4dce28f0811be1694c93\googletest-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\meret\Desktop\Softwareingeniør\4. semester\ESW\opgaver\workspace\session4\exercise_1\Gtest_with_calc\build\_deps\googletest-subbuild\CMakeFiles\ad57f1705a0c4dce28f0811be1694c93\googletest-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\meret\Desktop\Softwareingeniør\4. semester\ESW\opgaver\workspace\session4\exercise_1\Gtest_with_calc\build\_deps\googletest-subbuild\CMakeFiles\7c71791a37b65868fc3c6b3c3dea6801\googletest-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\meret\Desktop\Softwareingeniør\4. semester\ESW\opgaver\workspace\session4\exercise_1\Gtest_with_calc\build\_deps\googletest-subbuild\CMakeFiles\16c2e13629e9f965f2e7a820bd550fa8\googletest-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\meret\Desktop\Softwareingeniør\4. semester\ESW\opgaver\workspace\session4\exercise_1\Gtest_with_calc\build\_deps\googletest-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\meret\Desktop\Softwareingeniør\4. semester\ESW\opgaver\workspace\session4\exercise_1\Gtest_with_calc\build\_deps\googletest-subbuild\CMakeFiles\googletest-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A811DCFE-B782-3217-ABAA-E546ECC57C87}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

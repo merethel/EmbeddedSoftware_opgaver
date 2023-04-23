@@ -1,0 +1,5 @@
+add_test([=[calc.GetArea]=]  [==[C:/Users/meret/Desktop/Softwareingeniør/4. semester/ESW/opgaver/workspace/session4/exercise_3/build/Test/Debug/test_project.exe]==] [==[--gtest_filter=calc.GetArea]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[calc.GetArea]=]  PROPERTIES WORKING_DIRECTORY [==[C:/Users/meret/Desktop/Softwareingeniør/4. semester/ESW/opgaver/workspace/session4/exercise_3/build/Test]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[calc.GetParimeter]=]  [==[C:/Users/meret/Desktop/Softwareingeniør/4. semester/ESW/opgaver/workspace/session4/exercise_3/build/Test/Debug/test_project.exe]==] [==[--gtest_filter=calc.GetParimeter]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[calc.GetParimeter]=]  PROPERTIES WORKING_DIRECTORY [==[C:/Users/meret/Desktop/Softwareingeniør/4. semester/ESW/opgaver/workspace/session4/exercise_3/build/Test]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  test_project_TESTS calc.GetArea calc.GetParimeter)

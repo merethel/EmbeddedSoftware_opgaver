@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\meret\Desktop\Softwareingeniør\4. semester\ESW\opgaver\exercise 2 filer\addition.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\meret\Desktop\Softwareingeniør\4. semester\ESW\opgaver\exercise 2 filer\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\meret\Desktop\Softwareingeniør\4. semester\ESW\opgaver\exercise 2 filer\multiplication.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\meret\Desktop\Softwareingeniør\4. semester\ESW\opgaver\exercise 2 filer\subtraction.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\meret\Desktop\Softwareingeniør\4. semester\ESW\opgaver\exercise 2 filer\addition.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\meret\Desktop\Softwareingeniør\4. semester\ESW\opgaver\exercise 2 filer\multiplication.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\meret\Desktop\Softwareingeniør\4. semester\ESW\opgaver\exercise 2 filer\subtraction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\meret\Desktop\Softwareingeniør\4. semester\ESW\opgaver\exercise 2 filer\CMakelists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{063EEC8D-6419-397B-B81F-875E8D47D79F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4C83A8EB-807A-3072-B5BA-5679DC4FD955}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

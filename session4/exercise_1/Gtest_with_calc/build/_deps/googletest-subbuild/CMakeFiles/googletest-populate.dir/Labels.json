@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session4/exercise_1/Gtest_with_calc/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session4/exercise_1/Gtest_with_calc/build/_deps/googletest-subbuild/CMakeFiles/16c2e13629e9f965f2e7a820bd550fa8/googletest-populate.rule"
+		},
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session4/exercise_1/Gtest_with_calc/build/_deps/googletest-subbuild/CMakeFiles/7c71791a37b65868fc3c6b3c3dea6801/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session4/exercise_1/Gtest_with_calc/build/_deps/googletest-subbuild/CMakeFiles/ad57f1705a0c4dce28f0811be1694c93/googletest-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session4/exercise_1/Gtest_with_calc/build/_deps/googletest-subbuild/CMakeFiles/ad57f1705a0c4dce28f0811be1694c93/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session4/exercise_1/Gtest_with_calc/build/_deps/googletest-subbuild/CMakeFiles/ad57f1705a0c4dce28f0811be1694c93/googletest-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session4/exercise_1/Gtest_with_calc/build/_deps/googletest-subbuild/CMakeFiles/ad57f1705a0c4dce28f0811be1694c93/googletest-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session4/exercise_1/Gtest_with_calc/build/_deps/googletest-subbuild/CMakeFiles/ad57f1705a0c4dce28f0811be1694c93/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session4/exercise_1/Gtest_with_calc/build/_deps/googletest-subbuild/CMakeFiles/ad57f1705a0c4dce28f0811be1694c93/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session4/exercise_1/Gtest_with_calc/build/_deps/googletest-subbuild/CMakeFiles/ad57f1705a0c4dce28f0811be1694c93/googletest-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session4/exercise_1/Gtest_with_calc/build/_deps/googletest-subbuild/CMakeFiles/ad57f1705a0c4dce28f0811be1694c93/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

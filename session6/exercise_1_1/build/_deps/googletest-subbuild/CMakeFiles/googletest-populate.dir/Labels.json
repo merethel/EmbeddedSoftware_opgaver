@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session6/exercise_1/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session6/exercise_1/build/_deps/googletest-subbuild/CMakeFiles/0833acb250d6906b8c559512b84b7d6a/googletest-populate.rule"
+		},
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session6/exercise_1/build/_deps/googletest-subbuild/CMakeFiles/46e9a0930c44a51e1705ed6cb80488e9/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session6/exercise_1/build/_deps/googletest-subbuild/CMakeFiles/1ea89ca1f04e8f4ac2888071a232baeb/googletest-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session6/exercise_1/build/_deps/googletest-subbuild/CMakeFiles/1ea89ca1f04e8f4ac2888071a232baeb/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session6/exercise_1/build/_deps/googletest-subbuild/CMakeFiles/1ea89ca1f04e8f4ac2888071a232baeb/googletest-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session6/exercise_1/build/_deps/googletest-subbuild/CMakeFiles/1ea89ca1f04e8f4ac2888071a232baeb/googletest-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session6/exercise_1/build/_deps/googletest-subbuild/CMakeFiles/1ea89ca1f04e8f4ac2888071a232baeb/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session6/exercise_1/build/_deps/googletest-subbuild/CMakeFiles/1ea89ca1f04e8f4ac2888071a232baeb/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session6/exercise_1/build/_deps/googletest-subbuild/CMakeFiles/1ea89ca1f04e8f4ac2888071a232baeb/googletest-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/meret/Desktop/Softwareingeni\u00f8r/4. semester/ESW/opgaver/workspace/session6/exercise_1/build/_deps/googletest-subbuild/CMakeFiles/1ea89ca1f04e8f4ac2888071a232baeb/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

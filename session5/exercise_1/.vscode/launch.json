@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "cppvsdbg", //cppvsdbg is the debugger that is installed with Visual Studio. Alternatively "lldb" can be used
+
+            "request": "launch",
+            "name": "Debug main",
+            "program": "${workspaceFolder}/build/Target/Debug/Target.exe", //The path to the exefile. If it does not work, your path might be "${workspaceFolder}/build/MyProject.exe"
+            "args": [],
+            "console": "integratedTerminal", // This is necessary in order to take inputs. 
+            "cwd": "${workspaceFolder}",
+        },        {
+            "type": "cppvsdbg", //cppvsdbg is the debugger that is installed with Visual Studio. Alternatively "lldb" can be used
+
+            "request": "launch",
+            "name": "run gtest",
+            "program": "${workspaceFolder}/build/Test/Debug/test_project.exe", //The path to the exefile. If it does not work, your path might be "${workspaceFolder}/build/MyProject.exe"
+            "args": [],
+            "console": "integratedTerminal", // This is necessary in order to take inputs. 
+            "cwd": "${workspaceFolder}",
+        }
+    ],
+}

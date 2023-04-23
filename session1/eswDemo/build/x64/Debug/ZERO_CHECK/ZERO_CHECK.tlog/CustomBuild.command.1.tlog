@@ -1,0 +1,10 @@
+^C:\USERS\MERET\DESKTOP\SOFTWAREINGENIØR\4. SEMESTER\ESW\ESWDEMO\BUILD\CMAKEFILES\D4977B717E7359131CD6C1CB790858BC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/meret/Desktop/Softwareingeniør/4. semester/ESW/eswDemo" "-BC:/Users/meret/Desktop/Softwareingeniør/4. semester/ESW/eswDemo/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/meret/Desktop/Softwareingeniør/4. semester/ESW/eswDemo/build/MyProject.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

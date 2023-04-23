@@ -1,0 +1,10 @@
+^C:\USERS\MERET\DESKTOP\SOFTWAREINGENIØR\4. SEMESTER\ESW\OPGAVER\WORKSPACE\SESSION3\EXERCISE_1_1\BUILD\CMAKEFILES\194FC5DE31D5E072AC60074D9E85BD56\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/meret/Desktop/Softwareingeniør/4. semester/ESW/opgaver/workspace/session3/exercise_1_1" "-BC:/Users/meret/Desktop/Softwareingeniør/4. semester/ESW/opgaver/workspace/session3/exercise_1_1/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/meret/Desktop/Softwareingeniør/4. semester/ESW/opgaver/workspace/session3/exercise_1_1/build/MyProject.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

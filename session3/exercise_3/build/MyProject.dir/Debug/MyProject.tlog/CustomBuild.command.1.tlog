@@ -1,0 +1,10 @@
+^C:\USERS\MERET\DESKTOP\SOFTWAREINGENIØR\4. SEMESTER\ESW\OPGAVER\WORKSPACE\SESSION3\EXERCISE_3\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/meret/Desktop/Softwareingeniør/4. semester/ESW/opgaver/workspace/session3/exercise_3" "-BC:/Users/meret/Desktop/Softwareingeniør/4. semester/ESW/opgaver/workspace/session3/exercise_3/build" --check-stamp-file "C:/Users/meret/Desktop/Softwareingeniør/4. semester/ESW/opgaver/workspace/session3/exercise_3/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

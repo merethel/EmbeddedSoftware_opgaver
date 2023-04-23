@@ -1,0 +1,5 @@
+add_test([=[StringManipulation.my_strlen]=]  [==[C:/Users/meret/Desktop/Softwareingeniør/4. semester/ESW/opgaver/workspace/session4/exercise_2/build/Test/Debug/test_project.exe]==] [==[--gtest_filter=StringManipulation.my_strlen]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[StringManipulation.my_strlen]=]  PROPERTIES WORKING_DIRECTORY [==[C:/Users/meret/Desktop/Softwareingeniør/4. semester/ESW/opgaver/workspace/session4/exercise_2/build/Test]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[StringManipulation.my_strUpper]=]  [==[C:/Users/meret/Desktop/Softwareingeniør/4. semester/ESW/opgaver/workspace/session4/exercise_2/build/Test/Debug/test_project.exe]==] [==[--gtest_filter=StringManipulation.my_strUpper]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[StringManipulation.my_strUpper]=]  PROPERTIES WORKING_DIRECTORY [==[C:/Users/meret/Desktop/Softwareingeniør/4. semester/ESW/opgaver/workspace/session4/exercise_2/build/Test]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  test_project_TESTS StringManipulation.my_strlen StringManipulation.my_strUpper)

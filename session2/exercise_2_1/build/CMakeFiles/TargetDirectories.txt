@@ -1,0 +1,3 @@
+C:/Users/meret/Desktop/Softwareingeniør/4. semester/ESW/opgaver/exercise 2 filer/build/CMakeFiles/MyProject.dir
+C:/Users/meret/Desktop/Softwareingeniør/4. semester/ESW/opgaver/exercise 2 filer/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/meret/Desktop/Softwareingeniør/4. semester/ESW/opgaver/exercise 2 filer/build/CMakeFiles/ZERO_CHECK.dir
